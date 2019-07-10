@@ -9,6 +9,12 @@ When shooting at a wide angle with GoPro, it looks like a fisheye, but it is clo
 
 ![img00](images/GoProToVR180_01.jpg)    
 
+## Operation check environment
+
+Unity 2019.1.9f1 (Windows)     
+Unity 2019.1.1f1 (Windows)     
+Unity 2018.3.8 (Windows)     
+
 ## Development environment
 
 Unity 2018.3.8 (Windows)     

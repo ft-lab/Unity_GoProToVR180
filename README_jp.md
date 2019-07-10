@@ -6,6 +6,11 @@ GoProの広角で撮影した2枚の写真を、Unity上でVRとして見るた�
 GoProで広角で撮影した場合は、魚眼ではありますが平面に近いため、VR180カメラよりは奥行きの視差感が現実に近くなるようです。    
 
 ![img00](images/GoProToVR180_01.jpg)    
+## 動作確認環境
+
+Unity 2019.1.9f1 (Windows)     
+Unity 2019.1.1f1 (Windows)     
+Unity 2018.3.8 (Windows)     
 
 ## 開発環境
 

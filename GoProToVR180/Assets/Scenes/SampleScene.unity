@@ -278,6 +278,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fovH: 122.6
   fovV: 94.4
-  leftPhotoImage: {fileID: 2800000, guid: 64f0ce91cfb03c14993d954b007b04b5, type: 3}
-  rightPhotoImage: {fileID: 2800000, guid: fc9b3ea68ffd0fd4db697d51857688a4, type: 3}
+  leftPhotoImage: {fileID: 2800000, guid: 9657e092627c93843b9d8cc0f36df28b, type: 3}
+  rightPhotoImage: {fileID: 2800000, guid: 754292645cbd68d48be22049a1dfd461, type: 3}
   backgroundColor: {r: 0, g: 0, b: 0, a: 1}
